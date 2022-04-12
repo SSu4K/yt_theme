@@ -1,0 +1,29 @@
+html[dark], [dark]{
+    --yt-spec-brand-background-solid: #052f48;
+    --yt-spec-brand-background-primary: rgb(4, 33, 51);
+    --yt-spec-brand-background-secondary: rgb(4, 33, 51);
+    --yt-spec-general-background-a: #063652;
+    --ytd-searchbox-border-color: hsla(185.6, 100%, 50%, 0.4);
+    --ytd-searchbox-legacy-border-color: hsl(199.6, 100%, 50.8%);
+    --ytd-searchbox-legacy-border-shadow-color: hsla(191.3, 100%, 51%, 0.51);
+    --ytd-searchbox-legacy-button-color: hsla(208.2, 100%, 50%, 0.08);
+    --ytd-searchbox-legacy-button-border-color: hsl(199.6, 100%, 50.8%);
+    --yt-spec-brand-button-background: hsl(199.6, 100%, 50.8%);
+    --yt-spec-brand-link-text: hsl(199.6, 100%, 50.8%);
+}
+#img{
+    background: #00c2ff;
+    mix-blend-mode: screen;
+    -webkit-filter: grayscale(80%);
+    filter: grayscale(80%);
+    opacity: 1;
+}
+.yt-spec-icon-badge-shape--type-notification .yt-spec-icon-badge-shape__badge {
+    background-color: #1588b5;
+}
+.yt-icon path[fill="#FF0000"]{
+    fill: hsl(199.6, 100%, 50.8%);
+}
+.ytp-swatch-background-color{
+	background-color: hsl(199.6, 100%, 50.8%);
+}
